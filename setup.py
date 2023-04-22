@@ -4,7 +4,8 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='A baseline solKagle AMP®-Parkinson's Disease Progression Prediction Competition https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction',
+    description="A baseline for Kagle AMP®-Parkinson's \
+        Disease Progression Prediction Competition",
     author='Maksim Kokot',
     license='',
 )

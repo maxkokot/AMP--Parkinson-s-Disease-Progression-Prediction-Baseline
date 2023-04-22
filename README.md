@@ -1,8 +1,16 @@
 AMP®-Parkinson's Disease Progression Prediction Baseline
 ==============================
 
-A baseline solution Kagle AMP®-Parkinson's Disease Progression Prediction Competition 
+A baseline solution for Kagle AMP®-Parkinson's Disease Progression Prediction Competition
 https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction
+
+## Usage
+
+Put all the data into data/raw
+For running model's fitting use src/train_pipeline.py
+
+```python train_pipeline.py
+```
 
 Project Organization
 ------------
