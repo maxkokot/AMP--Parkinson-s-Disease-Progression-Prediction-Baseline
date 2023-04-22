@@ -9,7 +9,8 @@ https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-predictio
 Put all the data into data/raw
 For running model's fitting use src/train_pipeline.py
 
-```python train_pipeline.py
+```
+python train_pipeline.py
 ```
 
 Project Organization
